@@ -8,5 +8,6 @@
   ],
   "expected_result": "The 'Up' arrow is displayed in the right corner of the site",
   "actual_result": "The 'Up' arrow is not displayed in the right corner of the site",
-  "severity": "Major"
+  "severity": "Major",
+  "resolution": "Open"
 }
