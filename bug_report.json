@@ -1,0 +1,12 @@
+{
+  "title": "The 'Up' arrow is not displayed on the footer of the site",
+  "description": "The arrow does not appear either after refreshing the page",
+  "steps_to_reproduce": [
+    "open the main page of the site",
+    "scroll to the footer of the site",
+    "pay attention to the right corner of the site"
+  ],
+  "expected_result": "The 'Up' arrow is displayed in the right corner of the site",
+  "actual_result": "The 'Up' arrow is not displayed in the right corner of the site",
+  "severity": "Major"
+}
